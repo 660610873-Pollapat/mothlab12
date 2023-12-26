@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void mySwap(int &x,int &y); 
+void mySwap(int &,int &); 
 
 int main(){
 	int x,y;
